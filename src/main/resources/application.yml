@@ -1,0 +1,6 @@
+server:
+  port: 8888
+
+citydata:
+  file:
+    location: classpath:city.txt
